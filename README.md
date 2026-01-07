@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on Site Reliability Engineering concepts, looking to collaborate on system security and looking for help with same.<br>Ask me about SRE concepts and building reliable services
+I'm currently working on Site Reliability Engineering concepts, looking to collaborate on system security and need help with same.<br>Ask me about SRE concepts and building reliable services
 
 
 ## 🌐 Socials:
